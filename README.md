@@ -27,3 +27,8 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 Second, planning ahead is crucial for success. Before starting a new project or undertaking a large task, take the time to plan out the steps you needto take and the resources you will need. Knowing what you want to achieve and how to go about it will save you time and frustration down the road. Planning also includes considering potential obstacles and finding solutions for them ahead of time. 
  （104字）
 其次，提前规划对于成功至关重要。在开始新项目或承担大型任务之前，花时间规划所需的步骤和资源。了解你想要实现的目标以及如何实现它将为你节省时间和挫折。规划还包括提前考虑潜在障碍并找到解决方案。
+
+# 2023-11-22
+- "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook.
+
+This quote highlights the importance of designing user-friendly and intuitive software that can withstand the unpredictable nature of user behavior. It also emphasizes the ongoing challenge that programmers face in creating robust and reliable programs amidst constantly evolving technology and user expectations.
