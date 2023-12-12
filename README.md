@@ -108,3 +108,8 @@ Lastly, maintain organization and clean code. Using version control systems, lik
 
 # 2023-12-11
 - Today's programming wisdom is to "write code that is easy to delete, not easy to extend." This means that when writing code, it's important to focus on simplicity and readability rather than trying to anticipate all possible future changes or additions. By keeping code concise and well-organized, it will be easier to modify or remove as needed, saving time and effort in the long run. Additionally, this approach can help prevent bugs and reduce technical debt by minimizing complexity and unnecessary code.
+
+# 2023-12-12
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to overly complex and difficult-to-maintain code. It's better to write clean, simple code first and optimize only when needed.
