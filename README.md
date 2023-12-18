@@ -134,3 +134,8 @@ Another important aspect of programming wise is problem-solving. When faced with
 
 # 2023-12-17
 - Today's programming wisdom is to write code that is readable, maintainable, and scalable. This means using clear and concise variable names, commenting your code effectively, and organizing it into logical modules or functions. It also means anticipating future changes or additions to the code and designing it in a way that makes those changes easy to implement. By prioritizing readability, maintainability, and scalability, you can save yourself and your team time and effort in the long run and ensure that your code remains effective and efficient as it evolves over time.
+
+# 2023-12-18
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, determine which tasks are most important and focus on them first. By prioritizing your tasks and allocating your time wisely, you can ensure that you complete the most critical aspects of your project before moving on to less crucial elements.
+
+Secondly, planning ahead is essential. Before beginning a new project or undertaking a large task, take the time to plan out your approach. Break down the project into smaller, manageable steps, then allocate time for each step. Using a planning tool, such as a Trello board or GitHub issues, can help keep you organized and on track. Planning ahead will also help prevent last-minute panic and ensure you have enough time and resources to complete your task.
