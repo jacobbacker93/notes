@@ -142,3 +142,6 @@ Secondly, planning ahead is essential. Before beginning a new project or underta
 
 # 2023-12-19
 - Today's programming wisdom is to write code that is easy to read, understand, and modify. Code should be written with the assumption that someone else will have to read and work with it in the future. This means using clear and descriptive variable names, writing comments to explain complex logic, and breaking down complex problems into smaller, more manageable functions or modules. Additionally, following established coding conventions and best practices can help make code more readable and maintainable. Remember, code is read far more often than it is written, so taking the time to write clean, well-organized code will pay off in the long run.
+
+# 2023-12-20
+- "Keep it simple, stupid!"
