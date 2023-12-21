@@ -145,3 +145,6 @@ Secondly, planning ahead is essential. Before beginning a new project or underta
 
 # 2023-12-20
 - "Keep it simple, stupid!"
+
+# 2023-12-21
+- "Keep it simple, stupid!"
